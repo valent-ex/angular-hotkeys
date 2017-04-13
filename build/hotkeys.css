@@ -63,16 +63,14 @@
 }
 
 .cfp-hotkeys table {
-  margin: 0 25px 0 0;
+  margin: 0 5% 0 0;
   color: #333;
   float: left;
-  width: 300px;
+  width: 30%;
 }
 
 .cfp-hotkeys-category-container table:nth-child(2n+3) {
-  content: "";
-  display: table;
-  clear: both;
+  margin-right: 0;
 }
 
 .cfp-content {
@@ -96,12 +94,12 @@
   margin-right: 5px;
   box-shadow: inset 0 1px 0 #666, 0 1px 0 #bbb;
   padding: 5px 9px;
-  font-size: 1em;
+  font-size: 0.5em;
 }
 
 .cfp-hotkeys-text {
   padding-left: 10px;
-  font-size: 1em;
+  font-size: 0.5em;
 }
 
 .cfp-hotkeys-close {
